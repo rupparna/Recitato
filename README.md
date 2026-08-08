@@ -1,5 +1,5 @@
 
-## Welcome to *Recitato*, the absolute peak of potato-based culinary technology. 
+## Welcome to *Recitato*, the absolute peak of potato-based culinary technology!
 ##### Look, we all know you're just here for the potato content, so let's keep it brief.
 
 ### 🥔 What's the vibe?
