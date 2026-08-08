@@ -11,3 +11,5 @@ This is a lightning-fasttt, ultra-compressed web app built for absolute maximum 
 + Fully loaded with the official potato theme!!!
 
 #### Finally, go and try it yourself—because staring at a screen won't make the carbs magically appear on your plate :p
+
+###### Live URL: https://rupparna.github.io/Recitato/
